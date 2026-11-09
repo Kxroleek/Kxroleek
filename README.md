@@ -4,7 +4,7 @@ I'm a 20 year old tech enthusiast from Poland, deeply interested in in programmi
 
 ## 🔭 Current
 
-I'm currently working on [Personal Website](https://ezstore.pl) and I'm learning [Node.js](https://nodejs.org/en), [Python](https://www.python.org/) to code Discord Bots.
+I'm currently working on [Personal Website](https://e-z.bio/kxroleek) and I'm learning [Node.js](https://nodejs.org/en), [Python](https://www.python.org/) to code Discord Bots.
 
 ## ⚡️ Experience
 
