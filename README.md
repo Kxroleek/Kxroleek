@@ -1,6 +1,6 @@
 ## Hello, I'm Kxroleek 👋
 
-I'm a 20 year old tech enthusiast from Poland, deeply interested in in programming and general tech. In my free time, I enjoy playing games and learning new skills.
+I'm a 21 year old tech enthusiast from Poland, deeply interested in in programming and general tech. In my free time, I enjoy playing games and learning new skills.
 
 ## 🔭 Current
 
