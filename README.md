@@ -4,11 +4,11 @@ I'm a 21 year old tech enthusiast from Poland, deeply interested in in programmi
 
 ## 🔭 Current
 
-I'm currently working on [Personal Website](https://e-z.bio/kxroleek) and I'm learning [Node.js](https://nodejs.org/en), [Python](https://www.python.org/) to code Discord Bots.
+I'm currently working on [Personal Website](https://e-z.bio/kxroleek) and I'm learning [Node.js](https://nodejs.org/en), [Python](https://www.python.org/) to code Discord Bots & Websites.
 
 ## ⚡️ Experience
 
-I'm an intermediate developer i code frontend in HTML and CSS for over 3 years.
+I'm an intermediate developer i code frontend in HTML and CSS for over 4 years.
 
 ## 📫 Contact
 
